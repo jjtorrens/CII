@@ -1,7 +1,7 @@
 # Repositorio CII
 Materiales docentes para la asignatura de Cálculo II. Para mayor información, véase la página <https://jjtorrens.github.io/CII>.
 
-Para experimentar con los cuadernos Jupyter de este repositorio en Binder, pulse sobre el icono siguiente:
+Para experimentar en Binder con los cuadernos Jupyter de este repositorio, o, en general, con SageMath, pulse sobre el icono siguiente:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jjtorrens/C-II/main)
 
